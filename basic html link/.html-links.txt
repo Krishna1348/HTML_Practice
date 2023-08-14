@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+
+<body>
+    <h2> this heading for link </h2>
+    <p> this is how link works </p>
+    <a href="https://www.w3schools.com">this is link for your adventure</a>
+</body>
+
+</html>

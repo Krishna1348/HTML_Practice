@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+
+<body>
+    <p>
+        <a href="#no4"> jump to no.4 </a>
+    </p>
+    <p>
+        <a href="#no10"> jump to no.10 </a>
+    </p>
+    <h2> no1 </h2>
+    <p> this no. is special </p>
+
+    <h2> no2 </h2>
+    <p> this no. is good</p>
+
+    <h2> no3 </h2>
+    <p> this no. is not special </p>
+
+    <h2> no4 </h2>
+    <p> this no. is not good </p>
+
+    <h2> no5 </h2>
+    <p> this no. is awesome </p>
+
+    <h2> no6 </h2>
+    <p> this no. is not awesome </p>
+
+    <h2> no7 </h2>
+    <p> this no. is mine </p>
+
+    <h2> no8 </h2>
+    <p> this no. is not mine </p>
+
+    <h2> no9 </h2>
+    <p> this no. is best </p>
+
+    <h2> no10 </h2>
+    <p> this no. is lucky no </p>
+</body>
+
+</html>

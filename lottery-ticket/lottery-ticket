@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+
+<head>
+    <title> E-commerce </title>
+    <style>
+        body {
+            background-color: rgb(140, 255, 127);
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="background-color: aqua;border: 2cap;"> hurray !!!! you won the lotteryyyy </h1>
+    <a href="https://www.youtube.com/"> click to download lottery number </a>
+    <a>
+
+</body>
+
+</html>

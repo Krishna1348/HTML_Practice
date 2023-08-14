@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        img {
+            float: right;
+            width: 200px;
+            height: auto;
+            vertical-align: top;
+        }
+        
+        table,
+        th,
+        td {
+            border: 0.2px solid;
+        }
+        
+        .button {
+            font-size: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1><b>Dog D. Dog</b></h1>
+    <img src="dog image.jpeg" alt="dog image">
+    <h2 style="background-color: rgba(106, 203, 255, 0.8);">About</h2>
+    <p>Woof woof!</p>
+    <p>Hi, I'm Dog. I Love <span style="color: rgb(17, 131, 207); font-size: large;">User interface design.</span></p>
+    <h2 style="background-color: rgba(106, 203, 255, 0.8);">Courses</h2>
+    <p>Here are some courses I've taken:</p>
+    <table>
+        <tr>
+            <td> <strong> Course Number </strong> </td>
+            <td> <strong>Course Title </strong> </td>
+            <td> <strong>Semester taken </strong> </td>
+        </tr>
+        <tr>
+
+            <td> </td>
+            <td> <strong> For Credit </strong></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td> 6.813 </td>
+            <td> User Interface Design </td>
+            <td> spring 2014 </td>
+        </tr>
+        <tr>
+            <td> 6.034 </td>
+            <td> Artificial Intelligence</td>
+            <td> Fall 2013</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Listener</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>6.867</td>
+            <td> Machine Learning</td>
+            <td> Fall 2013</td>
+        </tr>
+        <tr>
+            <td>6.830</td>
+            <td> Database Systems</td>
+            <td> Fall 2012</td>
+        </tr>
+
+    </table>
+    <h2 style="background-color: rgba(106, 203, 255, 0.8);">Interests</h2>
+    <p> I am interesed <span style="font-size: large;"> HCI, </span> memes, and youtube videos.</p>
+    <h2 style="background-color:rgba(106, 203, 255, 0.8);">Submit Pet Information</h2>
+    <p> Would love to know what kinds of pet you 'own'(you'll never own me).Submit below!</p>
+
+    <button class="button"> Name </button>
+
+</html>

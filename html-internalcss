@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: burlywood;
+        }
+        
+        h1 {
+            color: aqua;
+        }
+        
+        p {
+            color: red;
+        }
+    </style>
+
+
+
+    <body>
+        <h1>this is my heading in internal css </h1>
+        <p>this is my paragraph ininternal css </p>
+    </body>
+
+</html>

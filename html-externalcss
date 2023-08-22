@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="lottery-ticket/lottery-ticket.css">
+
+</head>
+
+<body>
+    <p> this is my external css paragraph
+    </p>
+</body>
+
+</html>
